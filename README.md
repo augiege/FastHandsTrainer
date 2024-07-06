@@ -1,2 +1,2 @@
 # FastHandsTrainer
-Repo for the Fast Hands Trainer Application
+This is the repo for the iOS Fast Hands Trainer application.
