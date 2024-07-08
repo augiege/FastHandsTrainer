@@ -1,4 +1,5 @@
-###Privacy Policy
+#Privacy Policy
+
 #####Introduction
 Your privacy is important to us. This privacy policy explains how our app handles your information. We are committed to ensuring that your privacy is protected. Our app does not collect, store, or share any personal information or data from its users.
 
