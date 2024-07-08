@@ -48,6 +48,7 @@
 		D30EB5412B54AA6D001FC9FB /* ReflexTrainerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReflexTrainerUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		D39A22E52BFC5DA100438884 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 		D39A22E72BFC5F9700438884 /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
+		D3EB5D442C3B72A70083B2C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +99,7 @@
 		D30EB5232B54AA6B001FC9FB /* ReflexTrainer */ = {
 			isa = PBXGroup;
 			children = (
+				D3EB5D442C3B72A70083B2C9 /* Info.plist */,
 				D30EB5242B54AA6B001FC9FB /* ReflexTrainerApp.swift */,
 				D30EB5262B54AA6B001FC9FB /* ContentView.swift */,
 				D39A22E52BFC5DA100438884 /* TestViewController.swift */,
@@ -434,6 +436,7 @@
 				DEVELOPMENT_TEAM = 2PC289NFAR;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ReflexTrainer/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Reflex Trainer";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -470,6 +473,7 @@
 				DEVELOPMENT_TEAM = 2PC289NFAR;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ReflexTrainer/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Reflex Trainer";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
