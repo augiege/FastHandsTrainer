@@ -80,7 +80,7 @@ struct ContentView: View {
                                 message: Text("If you enjoy using this app, would you mind taking a moment to rate it?"),
                                 primaryButton: .default(Text("Rate App"), action: {
                                     // Replace with your app's actual App Store link
-                                    if let url = URL(string: "https://apps.apple.com/app/idYOUR_APP_ID") {
+                                    if let url = URL(string: "https://apps.apple.com/app/id6504540973") {
                                         UIApplication.shared.open(url)
                                     }
                                 }),
